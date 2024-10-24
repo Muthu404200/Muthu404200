@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in the MER
 - [Predictive Analytics Model](link-to-your-project) - A machine learning model built with Python that predicts outcomes based on historical data.
 - [Personal Portfolio](link-to-your-project) - My portfolio website showcasing my projects and skills.
 
+![Snake animation](https://raw.githubusercontent.com/0xvNFT/0xvNFT/output/github-contribution-grid-snake.svg)
 
 Thanks for stopping by! 🌟
 
