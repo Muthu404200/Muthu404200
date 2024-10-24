@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in the MER
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <img align="right" alt="GIF description" src="./Skills_Animation_White.gif" width="250px" heigth="250px">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif" width="250px" heigth="250px">
 </picture>
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-28a745?style=flat&logo=MongoDB&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in the MER
 - **Database**: MongoDB, MySQL
 - **Programming Languages**: JavaScript, Java, C, C++, Python
 - **Data Science**: NumPy, Pandas, TensorFlow, Matplotlib
+
+<br>
 
 ## 📈 GitHub Stats
 ![Muthu404200 GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthu404200&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
