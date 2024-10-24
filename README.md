@@ -1,8 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs)](https://0xvNFT.github.io)
 
-# Hi there, I'm Muthu Selvam! 👋
+# Hi there, I'm Muthu Selvam! 👋 
 
-Welcome to my GitHub profile! I'm a passionate developer specializing in the MERN stack and data science. Here, you'll find a collection of my projects and experiments blending web development with data analysis.
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="25" height="25" />  Welcome to my GitHub profile! I'm a passionate developer specializing in the MERN stack and data science. Here, you'll find a collection of my projects and experiments blending web development with data analysis.
 
 ## 🚀 About Me
 
@@ -31,12 +31,8 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in the MER
 <br>
 
 ## 📈 GitHub Stats
-![Muthu404200 GitHub stats](https://github-readme-stats.vercel.app/api?username=Muthu404200&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-## 🌟 Featured Projects
+![Muthu404200's Stats](https://github-readme-stats.vercel.app/api?username=Muthu404200&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- [MERN Data Dashboard](link-to-your-project) - A full-stack web application that visualizes data trends using React and Node.js.
-- [Predictive Analytics Model](link-to-your-project) - A machine learning model built with Python that predicts outcomes based on historical data.
-- [Personal Portfolio](link-to-your-project) - My portfolio website showcasing my projects and skills.
 
 ![Snake animation](https://raw.githubusercontent.com/0xvNFT/0xvNFT/output/github-contribution-grid-snake.svg)
 
