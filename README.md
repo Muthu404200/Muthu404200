@@ -34,6 +34,9 @@
 ![Muthu404200's Stats](https://github-readme-stats.vercel.app/api?username=Muthu404200&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
+![LeetCode Stats](https://leetcode.card.workers.dev/muthu404200?theme=dark&font=&extension=null)
+
+
 ![Snake animation](https://raw.githubusercontent.com/0xvNFT/0xvNFT/output/github-contribution-grid-snake.svg)
 
 Thanks for stopping by! 🌟
