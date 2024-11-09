@@ -3,7 +3,7 @@
 # Hi there, I'm Muthu Selvam! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="icon" width="30" height="30" />
 Welcome to my GitHub profile! I'm a passionate developer specializing in the MERN stack and data science. Here, you'll find a collection of my projects and experiments blending web development with data analysis.
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-## <img src="https://private-user-images.githubusercontent.com/74038190/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzExNDIwOTEsIm5iZiI6MTczMTE0MTc5MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzgtNmY1NjRkOWEtNDY3YS00YmJhLWFkM2EtODUyN2M4YWI3OWFlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA5VDA4NDMxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE4ZTU2YjY1NDU5YTkzZDVlMzVjNzk4NjA3OTZlYjcyZmNiZDFiM2MwMjYxNTJjNmEyYzNiMGY1Nzg1YjdhMmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-UUfEFkqX8vCJ66hy5mohu-5GlFuN7iTrP433JxvPic" alt="icon" width="45" height="45" /> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="icon" width="25" height="25" /> About Me
 
 - 🌱 I’m currently learning advanced machine learning techniques.
 - 🔭 I’m working on a full-stack application integrating data science insights.
