@@ -32,8 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in the MER
 ## 📈 GitHub Stats
 ![Muthu404200's Stats](https://github-readme-stats.vercel.app/api?username=Muthu404200&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
-![LeetCode Stats](https://leetcode.card.workers.dev/muthu404200?theme=dark&font=&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/muthu404200?theme=dark&font=ABeeZee&ext=activity)
 
 
 ![Snake animation](https://raw.githubusercontent.com/0xvNFT/0xvNFT/output/github-contribution-grid-snake.svg)
